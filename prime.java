@@ -14,7 +14,6 @@ public class prime {
         System.out.println(num+" is a prime number");
     }
 sc.close();
-
-    }
-    
+// simple prime number program to be as a readme.md later
+    } 
 }
